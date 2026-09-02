@@ -27,3 +27,5 @@ test/myencoding/encoding_detect_meta
 test/myhtml/commoncrawl
 test/myurl/url
 test_suite/
+built/
+build/

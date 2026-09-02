@@ -7,5 +7,5 @@
 # prevent including it several times
 if(NOT @PROJECT_NAME@_FOUND)
    include("@PACKAGE_MODEST_INSTALL_CONFIGDIR@/@PROJECT_NAME@.cmake")
-   check_required_components(@PROJECT_NAME@})
+   check_required_components(@PROJECT_NAME@)
 endif()

@@ -4,7 +4,7 @@
 
 Modest is a fast HTML renderer implemented as a pure C99 library with no outside dependencies.
 
-### Important announcement!
+### Important announcement
 
 Please use the [lexbor](https://github.com/lexbor/lexbor). It is stable, has more features, and — yes — it's very fast.
 
@@ -38,11 +38,12 @@ None
 See [INSTALL.md](https://github.com/lexborisov/Modest/blob/master/INSTALL.md)
 
 ## External Bindings and Wrappers
+
 * [Crystal wrapper](https://github.com/kostya/modest) for CSS Selectors (Modest Finder)
 * [Python binding](https://github.com/rushter/selectolax) for Modest engine (fast HTML5 parser and CSS selectors)
 * [Elixir/Erlang](https://github.com/f34nk/modest_ex) bindings
 * Perl 5 [HTML5::DOM](https://github.com/Azq2/perl-html5-dom) module (fast HTML5 parser with DOM and CSS selectors)
-* [arrogant](https://github.com/2night/arrogant/) library for D programming language (fast HTML5 parser with DOM and CSS selectors) 
+* [arrogant](https://github.com/2night/arrogant/) library for D programming language (fast HTML5 parser with DOM and CSS selectors)
 
 ## Examples
 
@@ -63,6 +64,5 @@ This library is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA
 
 See the [LICENSE] file.
-
 
 [LICENSE]: https://github.com/lexborisov/myhtml/blob/master/LICENSE
